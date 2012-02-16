@@ -1,0 +1,3 @@
+recursive-include js/chosen/resources *.*
+recursive-include js/chosen *.txt
+include *.txt

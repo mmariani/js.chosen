@@ -1,0 +1,10 @@
+How to use?
+===========
+
+
+You can import ``chosen_jquery`` from ``js.chosen`` and ``need`` it where you
+want these resources to be included on a page::
+
+  >>> from js.chosen import chosen_jquery
+  >>> chosen_jquery.need()
+
