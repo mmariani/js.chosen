@@ -1,10 +1,10 @@
 CHANGES
 *******
 
-0.9.7 (2012-02-16)
-==================
+0.9.7rt (2012-03-12)
+====================
 
-- Updated to upstream release [mmariani]
+- Updated to upstream release, RT fork [mmariani]
 
 
 0.9.1 (2011-09-08)
